@@ -1,0 +1,115 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+#nav_division{
+    display: flex;
+    justify-content: center;   /* aligns them horizontally */
+    gap: 40px;                 /* adds equal spacing between items */
+    background-color: #f0f0f0;
+    padding: 15px;
+    color: rgb(45, 116, 116);
+}
+#Personal_heading{
+     color: rgb(45, 116, 116);
+}
+#images_division{
+  width: 320px;
+  height: 320px;
+  border-radius: 100%;
+  position: relative;
+  top: 20px;
+  left: 64%;
+}
+#text_division{
+    position: absolute;
+    top:20%;
+    left: 10%;
+    font-size: 20px;
+
+}
+#text_division_one{
+    color: rgb(88, 88, 197);
+}
+#text_division_two{
+    font-size: 30px;
+}
+#text_division_three{
+    position: relative;
+    left: 5px;
+    top: 15px;
+    font-size: 16.5px;
+}
+#aboutme_division{
+    position: relative;
+    top: 60px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+#aboutme_division_one{
+     color: rgb(88, 88, 197);
+      font-size: 40px;
+      position: relative;
+      left: 25px;
+}
+#contact{
+    position: relative;
+    top: 75px;
+    left: 35px;
+}
+#aboutme_division_two{
+    font-size: 17.5px;
+}
+#contactme_heeading{
+     color: rgb(88, 88, 197);
+}
+#sendmessage_button{
+     color: rgb(88, 88, 197);
+    font-weight: 200;
+}
+#hireme_button{
+    height: 35px;
+    width: 120px;
+    background-color:  rgb(128, 128, 194);
+    position: relative;
+    top: 50px;
+    font-size: 20px;
+
+}
+#downloadcv_button{
+    height: 35px;
+    width: 150px;
+    position: relative;
+    top: 50px;
+    left: 30px;
+    background-color:  rgb(128, 128, 194);
+    font-size: 20px;
+}
+.contact_items{
+   font-weight: bold;
+}
+.details_items{
+    position: relative;
+    top: 30px;
+    left: 400px;
+    color:   rgb(88, 88, 197);
+}
+#projects_heading {
+    color: rgb(88, 88, 197);
+    font-size: 30px;
+    margin-top: 60px;
+    margin-left: 30px;
+}
+
+#project_list {
+    font-size: 18px;
+    margin-left: 40px;
+    margin-top: 10px;
+}
+#projects{
+    margin-top: 70px;
+}
+#contact{
+    position: relative;
+    top: 9px;
+}
